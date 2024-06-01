@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning/Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at [Coming Soon]
 
 - 📫 How to reach me **puriridham49@gmail.com**
 

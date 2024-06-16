@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **puriridham49@gmail.com**
 
-- I have worked on many framework like react, [https://github.com/ritz-bot/Resume](https://github.com/ritz-bot/Resume)
+- I have worked on many framework like react
 
 - ⚡ Fun fact **I AM NOT JUST A CODER , BUT A POET AS WELL.**
 

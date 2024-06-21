@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **puriridham49@gmail.com**
 
-- I have worked on many framework like react
+- I have worked on many framework like React, Flutter, Django, etc.
 
 - ⚡ Fun fact **I AM NOT JUST A CODER , BUT A POET AS WELL.**
 

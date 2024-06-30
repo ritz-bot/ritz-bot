@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming Soon]
 
-- 📫 How to reach me **puriridham49@gmail.com**
+- 📫 How to reach me **devworks@ridhampuri.in**
 
 - I have worked on many framework like React, Flutter, Django, etc.
 

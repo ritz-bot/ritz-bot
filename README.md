@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning/Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Coming Soon]
+- 👨‍💻 All of my projects are available at **https://portfolio.ridhampuri.in/**
 
 - 📫 How to reach me **devworks@ridhampuri.in**
 
